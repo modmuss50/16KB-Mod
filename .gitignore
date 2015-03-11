@@ -1,16 +1,15 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
+/bin
+/out
+/run
+/schematic
+/.gradle
 *.iml
+/.metadata
+/.settings
+./classpath
+
+16KB-Mod.iws
+16KB-Mod.ipr
+
 
 16KB-Mod.iml
